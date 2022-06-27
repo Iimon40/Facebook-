@@ -1,0 +1,52 @@
+06-17 22:42:44.391  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=361938KB
+06-17 22:44:44.423  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=361886KB
+06-17 22:46:44.462  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=361148KB
+06-17 22:48:44.529  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=360626KB
+06-17 22:50:44.565  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=360626KB
+06-17 22:52:44.600  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=360626KB
+06-17 22:52:51.791 14854 15136 E [Awinic]: get file size failed !
+06-17 22:52:51.791 14854 15136 E AudioALSAPlaybackHandlerNormal: SetParamsByScenes: Awinic Init failed, init normal param again 
+06-17 22:52:51.820 14854 15136 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+06-17 22:52:51.826 14854 15136 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+06-17 22:52:51.866 14854 14858 E AudioMTKGainController: getGainDevice(), error, devices (65536) not support, return GAIN_DEVICE_SPEAKER
+06-17 22:54:44.706  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=358189KB
+06-17 22:56:44.733  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=357624KB
+06-17 22:58:44.762  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=355424KB
+06-17 23:00:44.810  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=355992KB
+06-17 23:02:44.893  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=356759KB
+06-17 23:03:17.432 14854 15136 E [Awinic]: get file size failed !
+06-17 23:03:17.432 14854 15136 E AudioALSAPlaybackHandlerNormal: SetParamsByScenes: Awinic Init failed, init normal param again 
+06-17 23:03:22.840 14854 15136 E [Awinic]: get file size failed !
+06-17 23:03:22.840 14854 15136 E AudioALSAPlaybackHandlerNormal: SetParamsByScenes: Awinic Init failed, init normal param again 
+06-17 23:03:23.088 14854 15136 E [Awinic]: get file size failed !
+06-17 23:03:23.088 14854 15136 E AudioALSAPlaybackHandlerNormal: SetParamsByScenes: Awinic Init failed, init normal param again 
+06-17 23:03:23.197 14854 12194 E AudioMTKGainController: getGainDevice(), error, devices (65536) not support, return GAIN_DEVICE_SPEAKER
+06-17 23:03:23.214 14854 15136 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+06-17 23:03:23.235 14854 15136 I chatty  : uid=1041(audioserver) writer identical 6 lines
+06-17 23:03:23.237 14854 15136 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+06-17 23:03:24.077 14854  2475 E FMQ     : grantorIdx must be less than 3
+06-17 23:03:24.078 14854  2475 E FMQ     : grantorIdx must be less than 3
+06-17 23:03:24.080 14854 13257 E AudioALSAStreamManager: createCaptureHandler(), ptr is NULL!!
+06-17 23:04:44.904  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=363792KB
+06-17 23:05:07.764 14854 16702 E [Awinic]: get file size failed !
+06-17 23:05:07.767 14854 16702 E AudioALSAPlaybackHandlerNormal: SetParamsByScenes: Awinic Init failed, init normal param again 
+06-17 23:06:15.366 14854 15136 E [Awinic]: get file size failed !
+06-17 23:06:15.366 14854 15136 E AudioALSAPlaybackHandlerNormal: SetParamsByScenes: Awinic Init failed, init normal param again 
+06-17 23:06:15.385 14854 15136 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+06-17 23:06:15.390 14854 15136 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+06-17 23:06:15.451 14854 12194 E AudioMTKGainController: getGainDevice(), error, devices (65536) not support, return GAIN_DEVICE_SPEAKER
+06-17 23:06:44.979  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=357041KB
+06-17 23:08:44.972  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=356471KB
+06-17 23:10:45.024  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=357572KB
+06-17 23:12:45.058  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=357276KB
+06-17 23:14:45.112  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=357600KB
+06-17 23:16:45.191  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=356856KB
+06-17 23:18:45.281  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=358415KB
+06-17 23:20:45.363  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=358415KB
+06-17 23:22:45.347  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=358415KB
+06-17 23:24:45.363  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=357266KB
+06-17 23:26:45.398  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=357645KB
+06-17 23:28:45.445  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=358807KB
+06-17 23:30:45.490  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=358445KB
+06-17 23:32:45.529  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=359037KB
+06-17 23:34:45.526  2516  6773 E _V_RMS-Leak: WARNED!!! physical-memory process=android.hardware.audio.service.mediatek pid=14854 size=359271KB
